@@ -7,7 +7,7 @@ Used mocha for testing.
 
 Steps to run:
 
-  -clone the repo
+  - clone the repo
   - cd to root
   - npm start -s
   
