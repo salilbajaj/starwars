@@ -9,5 +9,6 @@ Steps to run:
 
   - clone the repo
   - cd to root
-  - npm start -s
+  - install node packages 'npm install'
+  - run 'npm start -s'
   
